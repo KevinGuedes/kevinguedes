@@ -11,8 +11,8 @@
 - 📝 In my daily routine, i work with **.NET/C#**, **TypeScript (React/Angular)** & **MongoDb** to develop new features in Web Applications
 - ⚡ I'm always improving my skills
 - 🧠 I've published many Papers about **Metaheuristic Optimization Algorithms** applied to **Wind Energy**. You can check more about them on my [LinkedIn](https://www.linkedin.com/in/kevinsantosguedes/)
-- I'm a **team player** and i get along easily with people
-- I love to **discover** and **learn** new things
+- 🍻 I'm a **team player** and i get along easily with people
+- 💖 I love to **discover** and **learn** new things
 
 ## Contact Me
 - Send me an email: [kevinguedes1@gmail.com](mailto:kevinguedes1@gmail.com)
