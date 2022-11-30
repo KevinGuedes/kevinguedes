@@ -16,7 +16,7 @@
 
 ## Contact Me
 - Send me an email: [kevinguedes1@gmail.com](mailto:kevinguedes1@gmail.com)
-- Send me a message on my [LinkedIn](https://www.linkedin.com/in/kevinsantosguedes/)
+- Send me a message on [LinkedIn](https://www.linkedin.com/in/kevinsantosguedes/)
 
 ## I Have Experience With
 <div align="center">
