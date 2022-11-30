@@ -38,11 +38,11 @@
 
 <div align="center">
   
-  ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinguedes&show_icons=true&theme=github_dark&layout=compact&langs_count=5)
+  ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinguedes&show_icons=true&theme=github_dark&layout=compact&langs_count=5&hide_border=true)
   
 </div>
 
 ------
 
-> Other evils there are that may come; for Sauron is himself but a servant or emissary. Yet it is not our part to master all the tides of the world, but to do what is in us for the succour of those years wherein we are set, uprooting the evil in the fields that we know, so that those who live after may have clean earth to till. What weather they shall have is not ours to rule.
-> -- J.R.R. Tolkien, The Return of the King
+> Other evils there are that may come; for Sauron is himself but a servant or emissary. Yet it is not our part to master all the tides of the world, but to do what is in us for the succour of those years wherein we are set, uprooting the evil in the fields that we know, so that those who live after may have clean earth to till. What weather they shall have is not ours to rule. 
+-- J.R.R. Tolkien, The Return of the King
