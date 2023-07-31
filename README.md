@@ -8,7 +8,7 @@
 
 ## About Me
 - 💻 I'm a Brazilian Full Stack Software Engineer
-- 📝 In my daily routine, i work with **.NET/C#**, **TypeScript (React/Angular)** & **MongoDb & SQL Server** to develop Web Applications
+- 📝 In my daily routine, i work with **.NET/C#**, **TypeScript (React/Angular)** & **SQL & NoSQL** to develop Web Applications
 - ⚡ I'm always improving my skills
 - 🧠 I've published many Papers about **Metaheuristic Optimization Algorithms** applied to **Wind Energy**. You can check more about them on my [LinkedIn](https://www.linkedin.com/in/kevinsantosguedes/)
 - 🍻 I'm a **team player** and i get along easily with people
