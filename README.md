@@ -24,6 +24,7 @@
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="csharp" width="45" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="45" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="45" height="55"/>
+  <img width="100" src="https://vuejs.org/images/logo.png" alt="Vue logo" width="45" height="55">
   <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angularjs" width="45" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="javascript" width="45" height="45"/>
